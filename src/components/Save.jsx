@@ -56,7 +56,7 @@ export default class AddFruit extends React.Component {
                     <input
                         type="text"
                         name="colorFruit"
-                        placeholder="color"
+                        placeholder="Color"
                         onChange={this.onChangeColorFruit} />
                         
                     <input
